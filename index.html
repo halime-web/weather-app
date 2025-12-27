@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Alternatif Hava Durumu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+   
+  <header>
+    <h1>Alternatif Hava Durumu Uygulaması</h1>
+    <p>Şehir adına göre anlık hava durumu bilgilerini gösterir</p>
+  </header>
+  <button id="darkModeBtn"> Koyu Mod</button>
+
+  <!-- ARAMA / FİLTRE -->
+   
+  <section class="search">
+    <input type="text" id="cityInput" placeholder="Şehir giriniz">
+    <button id="searchBtn">Ara</button>
+    <button id="clearBtn"> Temizle</button>
+  </section>
+
+  <!-- DURUM MESAJI -->
+  <p id="statusMessage"></p>
+
+  <!-- KART LİSTESİ -->
+  <main id="weatherCards"></main>
+
+  <!-- DETAY ALANI -->
+  <section id="detailArea"></section>
+
+  <!-- HAKKIMIZDA -->
+  <section>
+    <h2>Hakkımızda</h2>
+    <p>
+      Bu proje, API kullanarak hava durumu verilerini
+      JavaScript ile dinamik olarak listelemek amacıyla yapılmıştır.
+    </p>
+  </section>
+
+  <!-- İLETİŞİM -->
+  <section>
+    <h2>İletişim</h2>
+    <p>Email: tuncelihalime44@gmail.com</p>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
