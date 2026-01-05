@@ -8,7 +8,7 @@ göstermeyi amaçlamaktadır.
 - API Adı: API Ninjas – Weather API
 
 ## API Endpoint Örneği
-https://api.api-ninjas.com/v1/weather?city=London
+
 "SuKfvvnheMbWbCOQqGK/Wg==Ncq3B8mALQt2kNB4"benim aldığım api
 
 ## Uygulama Nasıl Çalışır?
@@ -33,3 +33,4 @@ https://api.api-ninjas.com/v1/weather?city=London
 - Enter tuşu ile arama
 
 - Temizle butonu
+
