@@ -9,6 +9,7 @@ göstermeyi amaçlamaktadır.
 
 ## API Endpoint Örneği
 https://api.api-ninjas.com/v1/weather?city=London
+"SuKfvvnheMbWbCOQqGK/Wg==Ncq3B8mALQt2kNB4"benim aldığım api
 
 ## Uygulama Nasıl Çalışır?
 - Kullanıcı şehir adını girer.
@@ -30,4 +31,5 @@ https://api.api-ninjas.com/v1/weather?city=London
 ## Bonus Özellikler
 - Koyu Mod (Dark Mode)
 - Enter tuşu ile arama
+
 - Temizle butonu
